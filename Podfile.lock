@@ -1,0 +1,14 @@
+PODS:
+  - DayFlow (0.0.1)
+
+DEPENDENCIES:
+  - DayFlow (from `git://github.com/evadne/DayFlow.git`)
+
+EXTERNAL SOURCES:
+  DayFlow:
+    :git: git://github.com/evadne/DayFlow.git
+
+SPEC CHECKSUMS:
+  DayFlow: a80e3271758cbdf6af8d29369452e7edeb81469a
+
+COCOAPODS: 0.18.1
