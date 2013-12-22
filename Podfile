@@ -1,1 +1,2 @@
-pod 'DayFlow', :git => "git://github.com/evadne/DayFlow.git"
+platform :ios, '7.0'
+pod 'DayFlow', :git => "http://github.com/evadne/DayFlow.git"
